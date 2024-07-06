@@ -3,7 +3,7 @@
   "description":"Deploy your TKM bot now.Brought to you by the Cod3Uchiha.Make sure you fill all valuables to avoid bot from sleeping. ",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/e07a3d933fb4cad0b3791.jpg",
-  "repository":"https://github.com/Cod3Uchiha/TKM-bot",
+  "repository":"https://github.com/rrnazor/TKM-bot",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"TKM bot",
+      "value":"WNK bot",
       "required":false
 
     } ,
@@ -67,23 +67,23 @@
     "SESSION_ID":
     {
       "description":"put your session ID, the code you received after pairing code",   
-      "value":"",
+      "value":"eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiYVBXSGN5UCtDcTRxcDQrd2hjSzdOekpFQXlwYndwdVZDblI2dTJ2Wk1tYz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiNUhEYnp5RVdrRlRzamc5NWVJVUpJcTcwMHBmWEpCRGVvaXhyeWkyM1pCND0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJ1RmZTdXoydHJWYUMzQzY5b3ltcTMvYlczdkExZisxRUxuR2x0eWcrYVc0PSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJuV0JHVUxoNlZPbFRUckFHdGpGMnNsV3Z0b2c3SjRRWFlMaDJvSldJMGc0PSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkVQbDlYbnZHMTRiRytkR0NJQVNjQ2hBdGRnUUpHT0k3dVJmdFIwZlNTR009In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ino2NWt4VkJUcUQyUUxKV0xGWmhWaXdKRDY2enlKZDdnNzlDcUpzN2hyMUk9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiSUd1L1RpOWp4UVI2WktldHhvcERKMStQbWhGRXZUb1J2RXg3dCtlYlEwND0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoic3hvWXF5c1VXTXhIcWR3MHNwc0hTS3NIcGZRUDg1ZHJXazFyTEowN0lIWT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjFHWkdKcmFtc1Y4VUdYVlZSaUM4SzcvZ2crNG1wcXpMRlJPdkNzQ2lsWGtRR1J5RTJYQ0ZCUjh1N3lNSlpDS2c5VFppZkMxQzdHbWRsc1pYeUovRkRRPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MjQ5LCJhZHZTZWNyZXRLZXkiOiJzelU3VGxVekVEVzRCSVZhK3dJNytONHdpUG5HVFJZS3hIRitnd2xzOWlzPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W3sia2V5Ijp7InJlbW90ZUppZCI6IjI2MzcxOTUzMjA0MUBzLndoYXRzYXBwLm5ldCIsImZyb21NZSI6dHJ1ZSwiaWQiOiJGNThGNTdBRTJDNDgxNDJGMUJEN0YxMEQ3MkQwODNFNSJ9LCJtZXNzYWdlVGltZXN0YW1wIjoxNzIwMjk2MTEyfV0sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjoxLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJuY2s0c19mb1JtU25DSUp4azhJaDFnIiwicGhvbmVJZCI6IjgyOWU1MzhhLTdhODktNGMwZS04MzI1LTIzZDkwYjFlMDdlZSIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJZL1A4Qys2OCtQdmxQRHNYUDc2dkowRVNEVTg9In0sInJlZ2lzdGVyZWQiOmZhbHNlLCJiYWNrdXBUb2tlbiI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Imkxczl4Vjd1SjRVWDFNd1FERkdOVGdZWU51ST0ifSwicmVnaXN0cmF0aW9uIjp7fSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ0phRmpad0dFSjNGcHJRR0dDRWdBQ2dBIiwiYWNjb3VudFNpZ25hdHVyZUtleSI6IjQyUkt0NVoyenBKRXRtcC9TbndGR252ZFgrNm9vUTVlR3dhNjF4ZzM4SFE9IiwiYWNjb3VudFNpZ25hdHVyZSI6Iit1RU5aMXEybGtNOTV1M0hhelRkSUp5dEFTSXFnS1VsaWN2bUVtM2N3a1o4MTllMWtxSzVucFpTVmdrTmJpSU9nUEtnOWRTVHMzZDVZRy9IZXNTaEJRPT0iLCJkZXZpY2VTaWduYXR1cmUiOiJ2QlhYNzZ0dlV6T1VpS2pWaDZLVllURHBWSHJrWEtKR1g2ZEppdlovRHhoL3lUT2tkZWxWRUtKVUt6R0U3c3BEVW9VMC95bUVid2t4cUlTc2taY1NEdz09In0sIm1lIjp7ImlkIjoiMjYzNzE5NTMyMDQxOjY0QHMud2hhdHNhcHAubmV0IiwibGlkIjoiMTU5NzU1OTg5NDYzMjg1OjY0QGxpZCIsIm5hbWUiOiJBUklUSE1FVElDMjgifSwic2lnbmFsSWRlbnRpdGllcyI6W3siaWRlbnRpZmllciI6eyJuYW1lIjoiMjYzNzE5NTMyMDQxOjY0QHMud2hhdHNhcHAubmV0IiwiZGV2aWNlSWQiOjB9LCJpZGVudGlmaWVyS2V5Ijp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQmVOa1NyZVdkczZTUkxacWYwcDhCUnA3M1YvdXFLRU9YaHNHdXRjWU4vQjAifX1dLCJwbGF0Zm9ybSI6ImFuZHJvaWQiLCJyb3V0aW5nSW5mbyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkNBMElEQT09In0sImxhc3RBY2NvdW50U3luY1RpbWVzdGFtcCI6MTcyMDI5NjEwNywibGFzdFByb3BIYXNoIjoiMXloSVJBIiwibXlBcHBTdGF0ZUtleUlkIjoiQUFBQUFPSUEifQ==",
       "required":true
       
     },
     "OWNER_NAME":
     {
     
-    "desc": "Your Name",
+    "desc": "ARITHMETIC28",
     "required": false,
-    "value": "Cod3Uchiha"
+    "value": "ARITHMETIC28"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "263775571820,263785028126"
+    "value": "263719532041"
   },
     "WARN_COUNT":
   {
